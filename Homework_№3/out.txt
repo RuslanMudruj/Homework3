@@ -1,0 +1,4 @@
+Quartal: 3 Quantyty_Of_rooms: 3
+Number: 1 Surname: Mudryi In_Counter: 15 Out_Counter: 85
+Number: 2 Surname: Mudryi In_Counter: 15 Out_Counter: 85
+Number: 3 Surname: Mudryi In_Counter: 15 Out_Counter: 85
