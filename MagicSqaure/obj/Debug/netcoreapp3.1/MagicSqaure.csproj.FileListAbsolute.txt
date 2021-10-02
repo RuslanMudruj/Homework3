@@ -1,0 +1,13 @@
+C:\Users\Ruslanchik\source\repos\MagicSqaure\obj\Debug\netcoreapp3.1\MagicSqaure.csprojAssemblyReference.cache
+C:\Users\Ruslanchik\source\repos\MagicSqaure\obj\Debug\netcoreapp3.1\MagicSqaure.csproj.CoreCompileInputs.cache
+C:\Users\Ruslanchik\source\repos\MagicSqaure\obj\Debug\netcoreapp3.1\MagicSqaure.AssemblyInfoInputs.cache
+C:\Users\Ruslanchik\source\repos\MagicSqaure\obj\Debug\netcoreapp3.1\MagicSqaure.AssemblyInfo.cs
+C:\Users\Ruslanchik\source\repos\MagicSqaure\bin\Debug\netcoreapp3.1\MagicSqaure.exe
+C:\Users\Ruslanchik\source\repos\MagicSqaure\bin\Debug\netcoreapp3.1\MagicSqaure.deps.json
+C:\Users\Ruslanchik\source\repos\MagicSqaure\bin\Debug\netcoreapp3.1\MagicSqaure.runtimeconfig.json
+C:\Users\Ruslanchik\source\repos\MagicSqaure\bin\Debug\netcoreapp3.1\MagicSqaure.runtimeconfig.dev.json
+C:\Users\Ruslanchik\source\repos\MagicSqaure\bin\Debug\netcoreapp3.1\MagicSqaure.dll
+C:\Users\Ruslanchik\source\repos\MagicSqaure\bin\Debug\netcoreapp3.1\MagicSqaure.pdb
+C:\Users\Ruslanchik\source\repos\MagicSqaure\obj\Debug\netcoreapp3.1\MagicSqaure.dll
+C:\Users\Ruslanchik\source\repos\MagicSqaure\obj\Debug\netcoreapp3.1\MagicSqaure.pdb
+C:\Users\Ruslanchik\source\repos\MagicSqaure\obj\Debug\netcoreapp3.1\MagicSqaure.genruntimeconfig.cache
